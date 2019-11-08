@@ -21,7 +21,7 @@ class Dec2Hex
         }
         else
 	{
-	    System.err.println("Input cannot be blank.");
+	    System.err.println("Input cannot be blank!");
 	    System.exit(1);
 	}
 
